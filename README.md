@@ -4,7 +4,7 @@
 I followed the instructions listed on Canvas in order to complete this assignment. On top of this, I was rather confused by the criteria of uploading "Screenshots of the results", so I opted to upload the results that I achieved for all 4 Quarters, labeled "Q1" through "Q4", respectively.
 
 Collaboration with others:
-None for this assignment; other than asking questions, or reading answers for other student's questions, in Slack. 
+> None for this assignment; other than asking questions, or reading answers for other student's questions, in Slack. 
 
 Citations:
 https://stackoverflow.com/a/42633533
